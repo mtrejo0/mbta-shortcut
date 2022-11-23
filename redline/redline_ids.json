@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Alewife",
+        "id": "place-alfcl"
+    },
+    {
+        "name": "Davis",
+        "id": "place-davis"
+    },
+    {
+        "name": "Porter",
+        "id": "place-portr"
+    },
+    {
+        "name": "Harvard",
+        "id": "place-harsq"
+    },
+
+    {
+        "name": "Central",
+        "id": "place-cntsq",
+        "zipcode": "02139"
+    },
+    {
+        "name": "Kendall",
+        "id": "place-knncl",
+        "zipcode": "02142"
+    },
+    {
+        "name": "Charles/MGH",
+        "id": "place-chmnl"
+    },
+    {
+        "name": "Park St",
+        "id": "place-pktrm"
+    },
+    {
+        "name": "Downtown Crossing",
+        "id": "place-dwnxg"
+    },
+    {
+        "name": "South Station",
+        "id": "place-sstat"
+    },
+    {
+        "name": "Broadway",
+        "id": "place-brdwy"
+    },
+    {
+        "name": "Andrew",
+        "id": "place-andrw"
+    },
+    {
+        "name": "JFK/UMass",
+        "id": "place-jfk"
+    },
+    {
+        "name": "Savin Hill",
+        "id": "place-shmnl"
+    },
+    {
+        "name": "Fields Corner",
+        "id": "place-fldcr"
+    },
+    {
+        "name": "Shawmut",
+        "id": "place-smmnl"
+    },
+    {
+        "name": "Ashmont",
+        "id": "place-asmnl"
+    },
+
+
+
+
+    {
+        "name": "North Quincy",
+        "id": "place-nqncy"
+    },
+    {
+        "name": "Wollaston",
+        "id": "place-wlsta"
+    },
+    {
+        "name": "Quincy Center",
+        "id": "place-qnctr"
+    },
+    {
+        "name": "Quincy Adams",
+        "id": "place-qamnl"
+    },
+    {
+        "name": "Braintree",
+        "id": "place-brntn"
+    }
+
+]

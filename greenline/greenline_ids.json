@@ -1,0 +1,51 @@
+[
+    {
+        "name": "UNION SQUARE",
+        "id": "place-unsqu"
+    },
+    {
+        "name": "LECHMERE",
+        "id": "place-lech"
+    },
+    {
+        "name": "SCIENCE PARK/WEST END",
+        "id": "place-spmnl"
+    },
+    {
+        "name": "NORTH STATION",
+        "id": "place-north"
+    },
+
+    {
+        "name": "HAYMARKET",
+        "id": "place-haecl"
+    },
+    {
+        "name": "GOVERNMENT CENTER",
+        "id": "place-gover"
+    },
+    {
+        "name": "PARK STREET",
+        "id": "place-pktrm"
+    },
+    {
+        "name": "BOYLSTON",
+        "id": "place-boyls"
+    },
+    {
+        "name": "ARLINGTON",
+        "id": "place-armnl"
+    },
+    {
+        "name": "COPLEY",
+        "id": "place-coecl"
+    },
+    {
+        "name": "HYNES CONVENTION CENTER",
+        "id": "place-hymnl"
+    },
+    {
+        "name": "KENMORE",
+        "id": "place-kencl"
+    }
+]
